@@ -1,0 +1,1 @@
+A recreational project for storing large numbers of int-boolean pairings as a contiguous array of chars.
